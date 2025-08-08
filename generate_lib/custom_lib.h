@@ -33,6 +33,8 @@
 
 /*_____ F U N C T I O N S __________________________________________________*/
 
+unsigned long library_test_002(void);
+unsigned long library_test_001(void);
 unsigned char function_2(unsigned char a,unsigned char b);
 unsigned char function_1(unsigned char a,unsigned char b);
 

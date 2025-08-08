@@ -8,12 +8,16 @@
   <Project Name="generate_lib" Type="Library">
     <Files>
       <Path>custom_lib.c</Path>
+      <Path>library_test_01.c</Path>
+      <Path>library_test_02.c</Path>
     </Files>
     <Device Series="RH850">R7F701684</Device>
     <BuildOptions Name="CC-RH" Version="V2.07.00">
       <BuildMode Name="DefaultBuild" Active="True">
         <LinkOrder>
           <Path>DefaultBuild\custom_lib.obj</Path>
+          <Path>DefaultBuild\library_test_01.obj</Path>
+          <Path>DefaultBuild\library_test_02.obj</Path>
         </LinkOrder>
         <CommonOptions />
         <GeneralOptions>

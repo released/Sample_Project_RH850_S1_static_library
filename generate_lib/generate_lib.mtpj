@@ -17,6 +17,20 @@
       <TreeImageGuid>941832c1-fc3b-4e1b-94e8-01ea17128b42</TreeImageGuid>
       <ParentItem>ff531f19-64ae-4bdc-ade4-dd9af6896b56</ParentItem>
     </Instance>
+    <Instance Guid="5f009e62-14df-4cf7-a5b0-2881090501a7">
+      <Name>library_test_01.c</Name>
+      <Type>File</Type>
+      <RelativePath>library_test_01.c</RelativePath>
+      <TreeImageGuid>941832c1-fc3b-4e1b-94e8-01ea17128b42</TreeImageGuid>
+      <ParentItem>ff531f19-64ae-4bdc-ade4-dd9af6896b56</ParentItem>
+    </Instance>
+    <Instance Guid="bd5cb8f7-1969-4756-8b0a-abfd709b86cb">
+      <Name>library_test_02.c</Name>
+      <Type>File</Type>
+      <RelativePath>library_test_02.c</RelativePath>
+      <TreeImageGuid>941832c1-fc3b-4e1b-94e8-01ea17128b42</TreeImageGuid>
+      <ParentItem>ff531f19-64ae-4bdc-ade4-dd9af6896b56</ParentItem>
+    </Instance>
   </Class>
   <Class Guid="fb98844b-2c27-4275-9804-f6e63e204da0">
     <Instance Guid="fb98844b-2c27-4275-9804-f6e63e204da0">
@@ -72,7 +86,11 @@
       <CurrentBuildMode>DefaultBuild</CurrentBuildMode>
       <SourceItemGuid0>b03efde1-a30a-4a40-aaf4-8742565cba28</SourceItemGuid0>
       <SourceItemType0>CSource</SourceItemType0>
-      <SourceItemCount>1</SourceItemCount>
+      <SourceItemGuid1>5f009e62-14df-4cf7-a5b0-2881090501a7</SourceItemGuid1>
+      <SourceItemType1>CSource</SourceItemType1>
+      <SourceItemGuid2>bd5cb8f7-1969-4756-8b0a-abfd709b86cb</SourceItemGuid2>
+      <SourceItemType2>CSource</SourceItemType2>
+      <SourceItemCount>3</SourceItemCount>
       <LastDeviceChangedCounter>1</LastDeviceChangedCounter>
     </Instance>
     <Instance Guid="989d6783-59a0-4525-8ee4-a067fda90fe2">
@@ -785,11 +803,27 @@
       <ItemAddTime>638895663981244585</ItemAddTime>
       <ItemAddTimeCount>0</ItemAddTimeCount>
     </Instance>
+    <Instance Guid="5f009e62-14df-4cf7-a5b0-2881090501a7">
+      <ItemAddTime>638902558867055554</ItemAddTime>
+      <ItemAddTimeCount>0</ItemAddTimeCount>
+    </Instance>
+    <Instance Guid="bd5cb8f7-1969-4756-8b0a-abfd709b86cb">
+      <ItemAddTime>638902558867055554</ItemAddTime>
+      <ItemAddTimeCount>1</ItemAddTimeCount>
+    </Instance>
     <Instance Guid="ff6292d8-755b-48e4-928f-58b9d98af783">
       <TimeTagModified-SourceItem0--0>-8584476660873531223</TimeTagModified-SourceItem0--0>
       <SourceItem0-IsLockedByUser>False</SourceItem0-IsLockedByUser>
       <SourceItem0-IndividualCompileOption-0>False</SourceItem0-IndividualCompileOption-0>
       <SourceItem0-BuildingTarget-0>True</SourceItem0-BuildingTarget-0>
+      <TimeTagModified-SourceItem1--0>-8584469765987720254</TimeTagModified-SourceItem1--0>
+      <SourceItem1-IsLockedByUser>False</SourceItem1-IsLockedByUser>
+      <SourceItem1-IndividualCompileOption-0>False</SourceItem1-IndividualCompileOption-0>
+      <SourceItem1-BuildingTarget-0>True</SourceItem1-BuildingTarget-0>
+      <TimeTagModified-SourceItem2--0>-8584469765987710254</TimeTagModified-SourceItem2--0>
+      <SourceItem2-IsLockedByUser>False</SourceItem2-IsLockedByUser>
+      <SourceItem2-IndividualCompileOption-0>False</SourceItem2-IndividualCompileOption-0>
+      <SourceItem2-BuildingTarget-0>True</SourceItem2-BuildingTarget-0>
     </Instance>
   </Class>
   <Class Guid="44fa27c9-0aa0-4297-bd3b-2c5c5bdb8881">
